@@ -1,0 +1,2 @@
+gateway_address: "127.0.0.1:8000"
+service_address: "127.0.0.1:3000"
